@@ -12,7 +12,7 @@ Nel pomeriggio l'app la scrive un coding agent nel tuo editor. Il tuo lavoro è 
 ## Chi ha lavorato su questo repository
 
 <!-- Lab 1: Riccardo -->
-
+Riccardo
 ## Prerequisiti
 
 | Strumento | Verifica |
